@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 19ca17efb3b3094469b13aec34d20963
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: OBJ:Cylinder01
+    4300002: OBJ:Cylinder02
+    4300004: OBJ:Box01
+    4300006: OBJ:Box08
+    4300008: OBJ:Box07
+    4300010: OBJ:Box10
+    4300012: OBJ:Box06
+    4300014: OBJ:Star01
+    4300016: OBJ:Rectangle08
+    4300018: OBJ:Rectangle09
+    4300020: OBJ:Sphere04
+    4300022: OBJ:Sphere01
+    4300024: OBJ:Sphere03
+    4300026: OBJ:Sphere02
+    4300028: OBJ:Line03
+    4300030: OBJ:Line04
+    4300032: OBJ:Cylinder26
+    4300034: OBJ:Cylinder25
+    4300036: OBJ:Cylinder27
+    4300038: OBJ:Cylinder28
+    4300040: OBJ:Cylinder29
+    4300042: OBJ:Cylinder30
+    4300044: OBJ:Cylinder31
+    4300046: OBJ:Cylinder32
+    4300048: OBJ:Cylinder33
+    4300050: OBJ:Box04
+    4300052: OBJ:Tube03
+    4300054: OBJ:Cylinder16
+    4300056: OBJ:Cylinder22
+    4300058: OBJ:Tube04
+    4300060: OBJ:Cylinder23
+    4300062: OBJ:Cylinder24
+    4300064: OBJ:ChamferCyl01
+    4300066: OBJ:Capsule02
+    4300068: OBJ:Cylinder20
+    4300070: OBJ:Cylinder21
+    4300072: OBJ:Cylinder19
+    4300074: OBJ:Cylinder04
+    4300076: OBJ:Box11
+    4300078: OBJ:NGon04
+    4300080: OBJ:NGon02
+    4300082: OBJ:NGon05
+    4300084: OBJ:NGon03
+    4300086: OBJ:NGon01
+    4300088: OBJ:NGon07
+    4300090: OBJ:NGon06
+    4300092: OBJ:Box03
+    4300094: OBJ:lower_arm_pivot
+    4300096: OBJ:Damper01
+    4300098: OBJ:Line01
+    4300100: OBJ:Cylinder03
+    4300102: OBJ:Box02
+    4300104: OBJ:Rectangle01
+    4300106: OBJ:Cylinder12
+    4300108: OBJ:Star02
+    4300110: OBJ:Rectangle02
+    4300112: OBJ:arm_pivot
+    4300114: OBJ:Cylinder11
+    4300116: OBJ:Rectangle04
+    4300118: OBJ:Cylinder10
+    4300120: OBJ:Rectangle07
+    4300122: OBJ:Cylinder07
+    4300124: OBJ:Cylinder06
+    4300126: OBJ:Rectangle06
+    4300128: OBJ:Cylinder09
+    4300130: OBJ:Cylinder08
+    4300132: OBJ:Rectangle05
+    4300134: OBJ:Cylinder18
+    4300136: OBJ:Rectangle03
+    4300138: OBJ:Circle01
+    4300140: OBJ:Tube01
+    4300142: OBJ:Cylinder05
+    4300144: OBJ:Cylinder15
+    4300146: OBJ:Star04
+    4300148: OBJ:Cylinder13
+    4300150: OBJ:Cylinder14
+    4300152: OBJ:Cylinder17
+    4300154: OBJ:Star05
+    4300156: OBJ:Box05
+    4300158: OBJ:Circle04
+    4300160: OBJ:Circle05
+    4300162: OBJ:Star06
+    4300164: OBJ:Star03
+    4300166: OBJ:Circle03
+    4300168: OBJ:Circle02
+    4300170: OBJ:Tube02
+    4300172: OBJ:Tube05
+    4300174: LowerArmGear
+    4300176: LowerArm
+    4300178: EndNozzle
+    4300180: polySurface2
+    4300182: polySurface4
+    4300184: PlatformBottom
+    4300186: LowerGear
+    4300188: BackGlass
+    4300190: BottomDisc
+    4300192: Base_Mechanics
+    4300194: EntireRobot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
